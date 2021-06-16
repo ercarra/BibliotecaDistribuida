@@ -1,0 +1,16 @@
+ANTES
+
+en cada programa existen 2 variables llamadas ipComputadorax, en estas se deben poner las ip de donde va a correr la maquina 1 y 2
+un ejemplo seria:
+			ipComputadora1="25.2.144.137";
+            ipComputadora2="25.9.164.191";
+COMPILACIÓN
+
+	* en la carpeta COMPUTADOR1 estan los programas que deben correrse en la maquina 1 que representa a una sede, estos pueden ser 
+	corridos en cualquier orden
+
+	* en la carpeta COMPUTADOR2 estan los programas que deben correrse en la maquina 21 que representa a otra sede, estos pueden ser 
+	corridos en cualquier orden
+
+	* en la carpeta ps esta el proceso solicitante, este puede correrse en cuantas maquinas se quiera
+	
